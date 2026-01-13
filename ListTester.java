@@ -254,7 +254,7 @@ public class ListTester {
                 result = result && (size == yourSolution.getSize());
             }
         }
-        return true;
+        return result;
     }
     
 }

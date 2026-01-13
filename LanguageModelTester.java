@@ -91,7 +91,7 @@ public class LanguageModelTester {
         String [] content = {"commitee_","elephant_have_big_ears","linked_lists_are_fun","you_cannot_teach_a_man_anything;_you_can_only_help_him_find_it_within_himself"};
         String [] expected = {
             "mm : ((i 1 1.0 1.0))\nee : ((_ 1 1.0 1.0))\nte : ((e 1 1.0 1.0))\nit : ((e 1 1.0 1.0))\nco : ((m 1 1.0 1.0))\nmi : ((t 1 1.0 1.0))\nom : ((m 1 1.0 1.0))\n",
-            "_b : ((i 1 1.0 1.0))\nnt : ((_ 1 1.0 1.0))\n_e : ((a 1 1.0 1.0))\nel : ((e 1 1.0 1.0))\nbi : ((g 1 1.0 1.0))\n_h : ((a 1 1.0 1.0))\nep : ((h 1 1.0 1.0))\nt_ : ((h 1 1.0 1.0))\nan : ((t 1 1.0 1.0))\nve : ((_ 1 1.0 1.0))\nar : ((s 1 1.0 1.0))\nav : ((e 1 1.0  1.0))\nph : ((a 1 1.0 1.0))\ng_ : ((e 1 1.0 1.0))\nle : ((p 1 1.0 1.0))\nha : ((v 1 0.5 0.5) (n 1 0.5 1.0))\ne_ : ((b 1 1.0 1.0))\nea : ((r 1 1.0 1.0))\nig : ((_ 1 1.0 1.0))\n",
+            "_b : ((i 1 1.0 1.0))\nnt : ((_ 1 1.0 1.0))\n_e : ((a 1 1.0 1.0))\nel : ((e 1 1.0 1.0))\nbi : ((g 1 1.0 1.0))\n_h : ((a 1 1.0 1.0))\nep : ((h 1 1.0 1.0))\nt_ : ((h 1 1.0 1.0))\nan : ((t 1 1.0 1.0))\nve : ((_ 1 1.0 1.0))\nar : ((s 1 1.0 1.0))\nav : ((e 1 1.0 1.0))\nph : ((a 1 1.0 1.0))\ng_ : ((e 1 1.0 1.0))\nle : ((p 1 1.0 1.0))\nha : ((v 1 0.5 0.5) (n 1 0.5 1.0))\ne_ : ((b 1 1.0 1.0))\nea : ((r 1 1.0 1.0))\nig : ((_ 1 1.0 1.0))\n",
             "st : ((s 1 1.0 1.0))\n" + //
                                 "_a : ((r 1 1.0 1.0))\n" + //
                                 "in : ((k 1 1.0 1.0))\n" + //
